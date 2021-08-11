@@ -2,8 +2,6 @@
 This is a repository containing code to generate powershell payload to access PC'S remotely. In this we use up the newpayloadgeneration.py file to generate powershell payload for us. Payload.py file develops the payload in the format to be feeded as a Word Macro.
 
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Usage(Required items)
 
 Ncat
