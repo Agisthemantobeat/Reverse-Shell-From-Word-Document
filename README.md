@@ -4,8 +4,8 @@ This is a repository containing code to generate powershell payload to access PC
 
 ## Usage(Required items)
 
-Ncat
-Ngrok
+Ncat,
+Ngrok,
 MS Word
 
 For further information check this video out here ----
