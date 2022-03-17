@@ -10,7 +10,7 @@ MS Word
 
 For further information check this video out here ----
 
-[https://www.thedecentshub.tech/2021/08/reverse-shell-from-word-documents.html?m=1]
+[https://youtu.be/7Scjh0GwWe0]
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
